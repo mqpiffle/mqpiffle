@@ -12,5 +12,5 @@ Which left me plenty of time to seize the opportunity to finally learn programmi
 
 Now I enjoy developing websites using a stack of Gatsbyjs and strapi CMS deployed to render.com.  I feel like front-end development is my jam (I *really* like CSS 🤣, thank you Kevin Powell 🙃) but I could definitely see getting into full-stack or back-end coding if the opportunity presented itself.
 
-Currrently (2022) I play music mostly on the weekends (I'm primarily a drummer, and freelance with several area bands) up and down the west coast of Florida, and I also teach lessons on Tuesday evenings.  I also enjoy spending time with my beautiful wife, maintaining our amazing home, and messing with the three prettiest kitties 😻 in the universe!
+Currrently (2022) While maintaining my love for my wife, home and live music, I've decided to dedicate myself to Software Engineering.  I am currently enrolled in General Assembly's Software Engineering Intensive bootcamp and loving every minute of it.
 
